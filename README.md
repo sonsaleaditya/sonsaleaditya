@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr. Aditya Sonsale</h1>
+<h1 align="center">Hi 👋, I'm Aditya Sonsale</h1>
 <h3 align="center">Passionate Full-Stack Developer | MERN Stack Enthusiast | Cloud & DevOps Practitioner | 1000+ DSA Problems Solved | Innovating Scalable and Efficient Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonsaleaditya&label=Profile%20views&color=0e75b6&style=flat" alt="sonsaleaditya" /> </p>
